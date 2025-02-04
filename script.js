@@ -30,7 +30,7 @@ function performCalculation(firstNumber, secondNumber, operation) {
 // کنترل کردن کلیک روی عدد ها
 numbers.forEach(number => {
     number.addEventListener("click", () => {
-        if (input.textContent.length < 15) {
+        if (input.textContent.length < 6) {
             if (input.textContent === "0") {
                 input.textContent = number.attributes[0].value;
             } else {
