@@ -4,6 +4,10 @@
 A stylish and responsive calculator built with **HTML**, **Tailwind CSS**, and **TypeScript**.  
 This app allows users to perform basic arithmetic operations with a clean UI and smooth interaction.
 
+## 🔗 Live Demo
+
+👉 [View the Calculator](https://md86mi86.github.io/calculator/)
+
 ## 🚀 Features
 
 - ✅ Basic arithmetic: Addition, Subtraction, Multiplication, Division  
