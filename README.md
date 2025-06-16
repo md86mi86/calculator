@@ -6,35 +6,37 @@ This app allows users to perform basic arithmetic operations with a clean UI and
 
 ## 🚀 Features
 
-- ✅ Basic arithmetic: Addition, Subtraction, Multiplication, Division
-- ✅ Responsive and mobile-friendly layout
-- ✅ Modern design using Tailwind CSS utility classes
-- ✅ Fully functional with TypeScript logic
+- ✅ Basic arithmetic: Addition, Subtraction, Multiplication, Division  
+- ✅ Responsive and mobile-friendly layout  
+- ✅ Modern design using Tailwind CSS utility classes  
+- ✅ Fully functional with TypeScript logic  
 - ✅ Error handling for invalid operations (e.g., division by zero)
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **Tailwind CSS v4**
+- **HTML5**  
+- **Tailwind CSS v4**  
 - **TypeScript**
 
 ## 📁 Project Structure
+
 ```
 
 📦 calculator-app
 ├── dist/
-│ └── output.css # Compiled Tailwind CSS
-│ └── app.js # Compiled JavaScript
+│   ├── output.css       # Compiled Tailwind CSS
+│   └── app.js           # Compiled JavaScript
 ├── src/
-│ └── custom.css # Optional extra styling
-├── index.html # Main calculator layout
-├── README.md # Project documentation
+│   └── custom.css       # Optional extra styling
+├── index.html           # Main calculator layout
+├── README.md            # Project documentation
 
 ````
 
 ## ⚙️ Setup & Run
 
 1. Clone the repo:
+
    ```bash
    git clone https://github.com/md86mi86/calculator.git
 ````
@@ -48,7 +50,7 @@ This app allows users to perform basic arithmetic operations with a clean UI and
 
 3. Open `index.html` in your browser to see it in action.
 
-> If you’re not using a bundler, make sure `output.css` and `app.js` are manually compiled and linked correctly.
+> 💡 If you’re not using a bundler, make sure `output.css` and `app.js` are manually compiled and linked correctly.
 
 ## 🧠 Author
 
@@ -59,4 +61,5 @@ GitHub: [@md86mi86](https://github.com/md86mi86)
 
 This project is open-source and free to use under the [MIT License](LICENSE).
 
+```
 ```
