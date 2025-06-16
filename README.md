@@ -1,13 +1,20 @@
-## live demo
-[demo](https://md86mi86.github.io/calculator/)
+## 🔗live demo
 
-## author
-made by **Mohammad Maleki**
+You can view demo for this project!
 
-## license
-[LICENSE](LICENSE)
+- **demo**: [click here](https://md86mi86.github.io/calculator/)
 
-## Contact
+## 🧠author
 
-[email](mailto:mohammad2007maleki@gmail.com)
-[telegram](https://t.me/md86mi86)
+- made by **Mohammad Maleki**
+
+## 📜license
+
+This project is open-source and free to use under the [LICENSE](LICENSE)
+
+## 📧Contact
+
+If you have any questions or just want to connect, feel free to reach out!
+
+- **GitHub**: [md86mi86](https://github.com/md86mi86)
+- **Email**: mohammad2007maleki@gmail.com
